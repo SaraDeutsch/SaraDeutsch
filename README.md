@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @SaraDeutsch
-- 👀 I’m interested in logical thinking and problem solving.
-- 🌱 I’m currently studying in Maalot college for a BA in Computer Science
-- ⚡ Fun fact: I enjoy playing sports in my free time
+<h1 align="center">Hi 👋, I'm Sara Deutsch</h1>
+<h3 align="center">A student in Maalot College studying Computer Science</h3>
 
-<!---
-SaraDeutsch/SaraDeutsch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **A Weather Application in Python Using Flask and SQLite**
+
+- 🌱 I’m currently learning **Programming in Python, Microsoft Access Databases, Operating Systems, Discrete Mathematics, and Computer Architecture**
+
+- ⚡ Fun fact **I enjoy playing sports and experimenting with different arts in my spare time.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saradeutsch&show_icons=true&locale=en" alt="saradeutsch" /></p>
+
