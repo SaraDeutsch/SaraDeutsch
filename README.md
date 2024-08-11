@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Deutsch</h1>
-<h3 align="center">A student in Maalot College studying Computer Science</h3>
+<h3 align="center">A Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working as **a Machine Learning Intern**
 
