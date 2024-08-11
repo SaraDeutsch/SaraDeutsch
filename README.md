@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara Deutsch</h1>
 <h3 align="center">A student in Maalot College studying Computer Science</h3>
 
-- 🔭 I’m currently working on **A Weather Application in Python Using Flask and SQLite**
+- 🔭 I’m currently working as ** a Machine Learning Intern**
 
-- 🌱 I’m currently learning **Programming in Python, Microsoft Access Databases, Operating Systems, Discrete Mathematics, and Computer Architecture**
+- 🌱 I’m currently creating **A Machine Learning model to predict donors donations for the upcoming year**
 
 - ⚡ Fun fact **I enjoy playing sports and experimenting with different arts in my spare time.**
 
