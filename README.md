@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara Deutsch</h1>
-<h3 align="center">A Machine Learning Engineer</h3>
+<h3 align="center">A Software Developer with experience in Machine Learning</h3>
 
-- 🔭 I’m currently working as **a backend developer** with experience in Machine Learning
+- 🔭 I’m currently working as **Machine Learning Intern**
 
 - 🌱 I’m currently creating **A Machine Learning model to predict donors donations for the upcoming year**
 
