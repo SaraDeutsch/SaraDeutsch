@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sara Deutsch</h1>
 <h3 align="center">A Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working as **a Machine Learning Intern**
+- 🔭 I’m currently working as **a backend developer** with experience in Machine Learning
 
 - 🌱 I’m currently creating **A Machine Learning model to predict donors donations for the upcoming year**
 
 - ⚡ Fun fact **I enjoy playing sports and experimenting with different arts in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
-www.linkedin.com/in/sara-deutsch-pearlman-97b80a318
+www.linkedin.com/in/sara-deutsch-pearlman
 <p align="left">
 </p>
 
